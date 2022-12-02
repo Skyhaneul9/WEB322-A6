@@ -5,8 +5,8 @@
 //mongodb+srv://haneul:<password>@web322.zd2xruj.mongodb.net/as6?retryWrites=true&w=majority
 //p34c7CAejWtnKL9a
 
-//https://github.com/Skyhaneul9/WEB322-A5
-//https://periwinkle-crocodile-cape.cyclic.app
+//https://github.com/Skyhaneul9/WEB322-A6
+//https://enchanting-galoshes-ox.cyclic.app
 
 //Administrator ID and Password
 //ID: admin
